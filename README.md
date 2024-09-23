@@ -21,7 +21,7 @@
 
 ## Design
 
-- **[ProductLane](https://productlane.com/)**: Gather insights to evidence and prioritise 
+- **[Productlane](https://productlane.com/)**: Gather insights to evidence and prioritise 
 - **Framer**: Stunning websites  
 - **[NextUI](https://nextui.org/)**: A beautiful, customizable component library for rapid UI development. 
 - **[Tailwind CSS](https://tailwindcss.com/)**: For utility-first styling and responsive design.
