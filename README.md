@@ -32,11 +32,19 @@
 - **[Jan](https://jan.ai/)**: A local AI application for enhanced development workflows.
 
 
-## Business
-- **[Cloudflare ZeroTrust](https://www.cloudflare.com/zero-trust/)**: Connect and secure domain access, and private VPN, free for up to 50 users
+## Staying organised
+- Supernormal
+- BusyCal
+- Reclaim 
 
-## Local Tools
+## Hybrid working/collaboration 
+- **[Cloudflare ZeroTrust](https://www.cloudflare.com/zero-trust/)**: Connect and secure domain access, private VPN, free for up to 50 users
+- Slack
+
+## Productivity 
 - **[Raycast](https://www.raycast.com/)**: Productivity tool for streamlined workflows and quick actions.
+- Bartender
+- Apple Notes
 
 
 More to come...
