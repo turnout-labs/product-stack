@@ -12,7 +12,7 @@
 ## Engineering
 - **[TypeScript](https://www.typescriptlang.org/)**: One language, everyone can contribute to the full-stack
 - **[Next.js](https://nextjs.org/)**: Our frontend framework of choice, leveraging the App Router for optimal performance and developer experience.
-- **[Vercel]()**: Toolbar and previews are 👌
+- **[Vercel](https://vercel.com/)**: Toolbar and previews are 👌
 - **[Supabase](https://supabase.com/)**: Our backend-as-a-service platform, providing database, authentication, and real-time capabilities.
 - **[Trigger.dev](https://trigger.dev/)**: For managing and orchestrating background jobs and workflows (and great people too)
 - **[Caddy](https://caddyserver.com/)**: Local SSL and reverse proxy
