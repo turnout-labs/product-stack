@@ -19,8 +19,9 @@
 - **[iTerm 2](https://iterm2.com/)**: Powerful terminal
 
 
-## UI and Styling
+## Design
 
+- **Framer**: Stunning websites  
 - **[NextUI](https://nextui.org/)**: A beautiful, customizable component library for rapid UI development. 
 - **[Tailwind CSS](https://tailwindcss.com/)**: For utility-first styling and responsive design.
 
