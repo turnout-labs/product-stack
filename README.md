@@ -3,7 +3,7 @@
  Here's an overview of the tools and services we love.
 
 ## Daily drivers:
-- **[Cursor](https://cursor.sh/)**: An AI first code editor to rapidly build with prompts. See our [`.cursorrules` template](/engineering/.cursorrules)
+- **[Cursor](https://cursor.sh/)**: An AI first code editor to rapidly build with prompts. We use `.cursorrules` to futher improve performance: [our template](/engineering/.cursorrules)
 - **[Figma Slides](https://www.figma.com/slides/)**: Seamless realtime collaboration with beautiful templates and integrated design system
 - **[Linear](https://linear.app/)**: For tasks, planning, and prioritisation
 - **[Arc](https://arc.net/)**: A modern, customizable browser with built-in productivity features like Spaces and Boosts
