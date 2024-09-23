@@ -7,6 +7,7 @@
 - **Figma Slides**: Seamless realtime collaboration with beautiful templates and integrated design system
 - **Linear**: For tasks, planning, and prioritisation
 - **Arc**: A modern, customizable browser with built-in productivity features like Spaces and Boosts
+- **1Password**: Secure notes, passwords, and certificates 
 
 ## Engineering Stack
 - **Typescript**: One language, everyone can contribute to the full-stack
@@ -21,6 +22,9 @@
 
 - **NextUI**: A beautiful, customizable component library for rapid UI development. 
 - **Tailwind CSS**: For utility-first styling and responsive design.
+
+## Business
+- **Cloudflare ZeroTrust**: Connect and secure domain access, and private VPN, free for up to 50 users
 
 ## AI and Machine Learning
 
