@@ -7,7 +7,8 @@
 - **[Figma Slides](https://www.figma.com/slides/)**: Seamless realtime collaboration with beautiful templates and integrated design system
 - **[Linear](https://linear.app/)**: For tasks, planning, and prioritisation
 - **[Arc](https://arc.net/)**: A modern, customizable browser with built-in productivity features like Spaces and Boosts
-- **[1Password](https://1password.com/)**: Secure notes, passwords, and certificates 
+- **[1Password](https://1password.com/)**: Secure notes, passwords, and certificates
+- **[Homebrew]**: Mac OS Package manager
 
 ## Engineering
 - **[TypeScript](https://www.typescriptlang.org/)**: One language, everyone can contribute to the full-stack
@@ -25,7 +26,8 @@
 - **Framer**: Stunning websites  
 - **[NextUI](https://nextui.org/)**: A beautiful, customizable component library for rapid UI development. 
 - **[Tailwind CSS](https://tailwindcss.com/)**: For utility-first styling and responsive design.
-
+- **[ITF](https://indiantypefoundry.com)**: Fonts
+- **[Recraft](https://recraft.ai)**: Generate vector and bitmap assets 
 
 
 ## AI and Machine Learning
@@ -35,15 +37,18 @@
 
 
 ## Staying organised
+
 - Supernormal
 - BusyCal
 - Reclaim 
 
 ## Hybrid working/collaboration 
+
 - **[Cloudflare ZeroTrust](https://www.cloudflare.com/zero-trust/)**: Connect and secure domain access, private VPN, free for up to 50 users
 - Slack
 
 ## Productivity 
+
 - **[Raycast](https://www.raycast.com/)**: Productivity tool for streamlined workflows and quick actions.
 - Bartender
 - Apple Notes
