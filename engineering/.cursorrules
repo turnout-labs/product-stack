@@ -61,3 +61,17 @@ Never use "@supabase/auth-helpers-nextjs", always use @supabase/ssr and @supabas
 Create supabase migrations in the `./supabase/migrations/` directory.
 Migration files must start with a timestamp, followed by the name.
 Generate a new timestamp as EPOC, do not guess or hallucinate the time, always use the current time.
+
+
+## Key Conventions
+
+Optimize Web Vitals (LCP, CLS, FID).
+Use only for Web API access in small components.
+Avoid for data fetching or state management.
+Follow Next.js app router specification for Data Fetching, Rendering, and Routing.
+
+## Evaluation
+
+Ensure all imported components are valid exports of the package.
+Modify package.json to include any additional packages required.
+Check and correct all errors before finishing.
