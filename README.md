@@ -4,10 +4,13 @@
 
 ## Daily drivers:
 - **[Cursor](https://cursor.sh/)**: An AI first code editor to rapidly build with prompts. We use `.cursorrules` to futher improve performance: [our template](/engineering/.cursorrules)
+- Claude for teams
 - **[Figma Slides](https://www.figma.com/slides/)**: Seamless realtime collaboration with beautiful templates and integrated design system
 - **[Linear](https://linear.app/)**: For tasks, planning, and prioritisation
 - **[Arc](https://arc.net/)**: A modern, customizable browser with built-in productivity features like Spaces and Boosts
 - **[1Password](https://1password.com/)**: Secure notes, passwords, and certificates
+- AirTable 
+- Raycast
 - **[Homebrew]**: Mac OS Package manager
 
 ## Engineering
@@ -22,13 +25,12 @@
 
 ## Design
 
-- **[Productlane](https://productlane.com/)**: Gather insights to evidence and prioritise 
-- **Framer**: Stunning websites  
 - **[NextUI](https://nextui.org/)**: A beautiful, customizable component library for rapid UI development. 
 - **[Tailwind CSS](https://tailwindcss.com/)**: For utility-first styling and responsive design.
 - **[ITF](https://indiantypefoundry.com)**: Fonts
 - **[Recraft](https://recraft.ai)**: Generate vector and bitmap assets 
-
+- **[Productlane](https://productlane.com/)**: Gather insights to evidence and prioritise 
+- **Framer**: Stunning websites  
 
 ## AI and Machine Learning
 
