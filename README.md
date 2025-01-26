@@ -34,7 +34,7 @@
 
 ## AI and Machine Learning
 
-- **[Lytix](https://lytix.ai/)**: Single endpoint and optimisation for multiple LLM providers (👀 these folks are building fast, big things to come)
+- **[Lytix](https://lytix.co/)**: Single endpoint and optimisation for multiple LLM providers (👀 these folks are building fast, big things to come)
 - **[Jan](https://jan.ai/)**: A local AI application for enhanced development workflows.
 
 
